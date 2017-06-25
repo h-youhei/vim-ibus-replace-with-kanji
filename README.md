@@ -1,0 +1,1 @@
+# vim-ibus-replace-with-kanji
